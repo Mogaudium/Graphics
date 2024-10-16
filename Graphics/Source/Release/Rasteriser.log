@@ -1,0 +1,12 @@
+﻿  Rasteriser.cpp
+C:\Users\ipman\OneDrive\Desktop\Graphics\Source\Rasteriser.cpp(153,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ipman\OneDrive\Desktop\Graphics\Source\Rasteriser.cpp(157,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ipman\OneDrive\Desktop\Graphics\Source\Rasteriser.cpp(161,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ipman\OneDrive\Desktop\Graphics\Source\Rasteriser.cpp(165,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ipman\OneDrive\Desktop\Graphics\Source\Rasteriser.cpp(311,21): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  2 of 467 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Rasteriser.vcxproj -> C:\Users\ipman\OneDrive\Desktop\Graphics\Source\Release\Rasteriser.exe
